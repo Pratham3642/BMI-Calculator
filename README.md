@@ -52,6 +52,10 @@ Specific error messages guide the user to correct their input.
  ## Conclusion
 This BMI calculator provides a simple and effective way to calculate and understand BMI. The interface is intuitive, ensuring that users can easily input data and interpret results. The error handling ensures that the inputs are valid, thereby preventing incorrect calculations and providing a smooth user experience.
 
+## Output
+
+
+![Screenshot 2024-06-16 211115](https://github.com/Pratham3642/BMI-Calculator/assets/162919475/d86ba52b-46b3-4c6a-a455-e1dbb6a1a272)
 
 
 
